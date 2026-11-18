@@ -1,0 +1,6 @@
+Place ici tes fichiers audio, nommés avec 3 chiffres :
+001.mp3 (Al-Fatiha), 002.mp3 (Al-Baqara), ... 114.mp3 (An-Nas)
+
+Puis, à la racine du projet :
+  node scripts/genAudio.js
+  npx expo start -c
